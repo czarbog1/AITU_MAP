@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">I2GIS</string>
+    <string name="welcome">welcome</string>
+    <string name="freedom_of_movement">freedom_of_movement</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+</resources>
